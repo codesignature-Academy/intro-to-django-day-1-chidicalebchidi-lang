@@ -140,13 +140,16 @@ Example:
 ## Question 1
 
 ### manage.py
-Your explanation here.
+This file is used to manage the Django project. It helps run commands like starting the server and creating migrations.
+
+
 
 ### settings.py
-Your explanation here.
+This file contains the settings of the Django project such as installed apps, database configuration, and security settings.
+
 
 ### urls.py
-Your explanation here.
+This file is used to connect URLs to views so users can access different pages of the website.
 ```
 
 Write the explanations in your own words.
